@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\FHL-WinFormsPaint-001\FHL-WinFormsPaint-001\bin\Debug\FHL-WinFormsPaint-001.exe.config
+C:\Users\walte\source\repos\FHL-WinFormsPaint-001\FHL-WinFormsPaint-001\bin\Debug\FHL-WinFormsPaint-001.exe
+C:\Users\walte\source\repos\FHL-WinFormsPaint-001\FHL-WinFormsPaint-001\bin\Debug\FHL-WinFormsPaint-001.pdb
+C:\Users\walte\source\repos\FHL-WinFormsPaint-001\FHL-WinFormsPaint-001\obj\Debug\FHL-WinFormsPaint-001.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\FHL-WinFormsPaint-001\FHL-WinFormsPaint-001\obj\Debug\FHL-WinFormsPaint-001.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\FHL-WinFormsPaint-001\FHL-WinFormsPaint-001\obj\Debug\FHL-WinFormsPaint-001.exe
+C:\Users\walte\source\repos\FHL-WinFormsPaint-001\FHL-WinFormsPaint-001\obj\Debug\FHL-WinFormsPaint-001.pdb

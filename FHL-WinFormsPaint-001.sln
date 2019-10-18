@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FHL-WinFormsPaint-001", "FHL-WinFormsPaint-001\FHL-WinFormsPaint-001.csproj", "{1A0DC866-EFD0-4278-8B4D-DF24418E39DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0DC866-EFD0-4278-8B4D-DF24418E39DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0DC866-EFD0-4278-8B4D-DF24418E39DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0DC866-EFD0-4278-8B4D-DF24418E39DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0DC866-EFD0-4278-8B4D-DF24418E39DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15B48E5-1991-476E-A790-DD0DDEDFDBE9}
+	EndGlobalSection
+EndGlobal
